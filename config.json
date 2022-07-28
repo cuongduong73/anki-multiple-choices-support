@@ -1,0 +1,17 @@
+{
+    "settings": [
+        {
+            "name": "Default", 
+            "notetype": "Multiple Choice (optional reversed card)", 
+            "configs": {
+                "reversed": false,
+                "question_fld": "Question",
+                "answer_fld": "Answer",
+                "choice_fld": "Choices",
+                "r_choice_fld": "Reversed Choices",
+                "n_choice": "3"
+            } 
+        }
+        
+    ]
+}
